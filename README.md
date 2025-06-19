@@ -1,6 +1,6 @@
 # 🚗 Instant Carpool - Blockchain-Powered Ride Sharing
 
-Instant Carpool is a decentralized ride-sharing platform built on the **ICP Blockchain**. It enables users to instantly find and share rides in a secure, transparent, and cost-effective manner, eliminating intermediaries and ensuring fair transactions.
+Instant carpool is a decentralized ride-sharing platform built on the **ICP Blockchain**. It enables users to instantly find and share rides in a secure, transparent, and cost-effective manner, eliminating intermediaries and ensuring fair transactions.
 
 ## 🌟 Key Features
 - **Decentralized & Secure** – Powered by **ICP Blockchain** for trustless transactions.
@@ -27,7 +27,7 @@ Traditional ride-sharing platforms charge high fees and rely on central authorit
 
 ### 2️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-repo/instant-carpool.git
+git clone https://github.com/mananx01/Carpool_icp.git
 cd instant-carpool
 ```
 
@@ -71,16 +71,3 @@ dfx canister --network ic info ridesharing_frontend
 - **Frontend Build Issues** – Missing Candid files resolved with `dfx generate`.
 - **Wallet Integration Bugs** – Debugged Plug authentication issues.
 - **Mainnet Deployment Issues** – Resolved identity and permission errors.
-
-## 📜 License
-This project is licensed under the **MIT License**.
-
-## 🤝 Contributors
-
-- **Support** – Ashutosh and Arpit 
-
-- 🌐 Website: https://w2lgq-ayaaa-aaaai-q3vvq-cai.icp0.io/
-
-Turn **Rides into Opportunities** with **Instant Carpool** 🚗💨
-
-# Icp-hackathon
