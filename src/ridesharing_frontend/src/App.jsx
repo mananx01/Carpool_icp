@@ -166,7 +166,7 @@ function LandingPage() {
       </div>
 
       <footer className="footer">
-        <p>Powered by ICP Blockchain and developed by Instant Car Pool team </p>
+        <p>Powered by ICP Blockchain and developed with love by Manan Upmanyu</p>
       </footer>
     </div>
   );
